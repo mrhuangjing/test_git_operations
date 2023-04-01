@@ -1,6 +1,6 @@
-function sayHi(name) {
+function greet(name) {
   console.log(`Hello ${name}!`);
   return name;
 }
 
-sayHi('World');
+greet('World');
