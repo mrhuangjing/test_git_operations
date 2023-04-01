@@ -1,5 +1,5 @@
-function Greet(name) {
+function greet(name) {
   console.log(`Hello ${name}!`);
 }
 
-Greet('World');
+greet('World');
