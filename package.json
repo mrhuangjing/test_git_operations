@@ -1,0 +1,19 @@
+{
+  "name": "test_git_operations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrhuangjing/test_git_operations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrhuangjing/test_git_operations/issues"
+  },
+  "homepage": "https://github.com/mrhuangjing/test_git_operations#readme"
+}
